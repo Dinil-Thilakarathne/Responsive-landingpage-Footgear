@@ -5,7 +5,7 @@
 
 # Demo 
 ## live Demo :
-- 
+- [click here](https://dinil-thilakarathne.github.io/Responsive-landingpage-Footgear/)
 
 ## Project Preview
 
