@@ -1,7 +1,7 @@
 # how to create responsive landing page with dark mode
 
 ## Watch Full video on Youtube 
-- 
+- [Watch now](https://www.youtube.com/watch?v=YbodZulSYis)
 
 # Demo 
 ## live Demo :
